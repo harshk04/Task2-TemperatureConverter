@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Temperature Converter - By: Harsh Kumawat</title>
+<link rel="stylesheet" href="style.css">
+<link rel="shortcut icon" href="favicon.jpeg" type="image/x-icon">
+</head>
+<body>
+  <h1>Temperature Converter</h1>
+  <div class="container">
+    <div class="form-group">
+      <label>Enter temperature in Celsius:</label>
+      <input type="number" id="celsius-input" placeholder="Enter the Temperature" />
+      <br><br>
+      <button class="btn" onclick="convertToFahrenheit()">Convert to Fahrenheit</button>
+    </div>
+    <div class="form-group">
+        <br>
+      <label>Enter temperature in Fahrenheit:</label>
+      <input type="number" id="fahrenheit-input" placeholder="Enter the Temperature" />
+    </div>
+    <button class="btn" onclick="convertToCelsius()">Convert to Celsius</button>
+    <br>
+    
+    <div class="result">
+      <p id="result-text"></p>
+    </div>
+  </div>
+
+<script src="script.js"></script>
+</body>
+</html>
