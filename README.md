@@ -1,6 +1,9 @@
 # Temperature Conversion Tool
 The Temperature Conversion Tool is a simple yet powerful project that allows users to convert temperatures between Celsius and Fahrenheit scales. With this tool, users can quickly and accurately convert temperature values based on their preference. 🌡️🔄
 
+## 📌Sneak Peek of Main Page 🙈 :
+<img width="1439" alt="Screenshot 2023-07-12 at 12 52 13 AM" src="https://github.com/harshk04/Task2-TemperatureConverter/assets/115946158/8a5ba733-9a23-44fe-ad23-b99532904a4c">
+
 ## Features
 **User-friendly interface:** The tool provides a clean and intuitive interface for a seamless user experience. 🖥️💡
 
